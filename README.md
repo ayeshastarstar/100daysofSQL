@@ -1,2 +1,2 @@
 # 100daysofSQL
-Committing myself to practice SQL for the next 100 days starting with - https://8weeksqlchallenge.com/getting-started/
+I am committing myself to practicing SQL for the next 100 days, starting with - https://8weeksqlchallenge.com/getting-started/
